@@ -1,0 +1,75 @@
+body {
+    background: #1e6fb1;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+.profile{
+    width: 155px;
+    border: 4px solid;
+    border-radius: 100px;
+    border-color: rgb(219, 219, 219);
+}
+.username{
+    color: rgb(219, 219, 219);
+    user-select: none;
+}
+.username:hover{
+    color: rgb(255, 255, 255);
+}
+.text{
+    color: rgb(37, 96, 223);
+    user-select: none;
+    font-weight: bold;
+    text-decoration: none
+}
+.text:hover{
+    color: rgb(230, 228, 228);
+}
+.youtube {
+    border: 2px solid #e6e7e7;
+    background: #61b4f8;
+    box-sizing: border-box;
+    margin: 20px auto;
+    padding: 15px;
+    text-align: center;
+    transition: all 0.15s;
+    border-radius: 3px;
+    width: 800px;
+    height: 80px;
+}
+.github {
+    border: 2px solid #e6e7e7;
+    background: #30a1fd;
+    box-sizing: border-box;
+    margin: 20px auto;
+    padding: 15px;
+    text-align: center;
+    transition: all 0.15s;
+    border-radius: 3px;
+    width: 800px;
+    height: 80px;
+}
+.instagram {
+    border: 2px solid #e6e7e7;
+    background: #5a9bf1;
+    box-sizing: border-box;
+    margin: 20px auto;
+    padding: 15px;
+    text-align: center;
+    transition: all 0.15s;
+    border-radius: 3px;
+    width: 800px;
+    height: 80px;
+}
+.mail {
+    border: 2px solid #e6e7e7;
+    background: #78c1fd;
+    box-sizing: border-box;
+    margin: 20px auto;
+    padding: 15px;
+    text-align: center;
+    transition: all 0.15s;
+    border-radius: 3px;
+    width: 800px;
+    height: 80px;
+}
